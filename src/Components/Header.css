@@ -1,0 +1,44 @@
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #531610;
+}
+
+.nav-items {
+    display: flex;
+    align-items: center;
+}
+
+.btn-signup {
+    color: white;
+    border: 2px solid white;
+    background: none;
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0px 50px;
+    font-size: 14px;
+}
+
+.list {
+    background: none;
+    border: none;
+    text-decoration: none;
+    margin: 0px 25px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.logo-section {
+    display: flex;
+    color: white;
+    align-items: center;
+    font-size: 24px;
+}
+
+.logo-section img {
+    width: 130px;
+    margin: 0px 50px;
+}
